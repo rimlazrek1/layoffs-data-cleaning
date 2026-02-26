@@ -4,7 +4,7 @@
 This dataset is the popular tech layoffs dataset (2020-2023) originally compiled from public layoff announcements. It's commonly used for data cleaning practice in the data community.
 
 ## Before Cleaning
-- - Inconsistent country format: "United States" vs "United States." (with period)
+- Inconsistent country format: "United States" vs "United States." (with period)
 - Inconsistent industry names: "Crypto" vs "Crypto Currency"
 - Mixed date formats (MM/DD/YYYY and text)
 - 150+ null values in key columns
